@@ -1,0 +1,1 @@
+# Onshore-Wind-Turbine-Reliability-analysis-using-Ansys-and-PINNs
